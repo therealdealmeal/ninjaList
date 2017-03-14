@@ -1,0 +1,25 @@
+[{
+	"name": "Spongebob",
+	"belt": "green",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/img/spongebob.jpg"
+}, {
+	"name": "Patrick",
+	"belt": "yellow",
+	"rate": 30,
+	"available": true,
+	"thumb": "content/img/patrickstar.jpg"
+}, {
+	"name": "Squidward",
+	"belt": "orange",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/squidward.jpg"
+}, {
+	"name": "Sandy",
+	"belt": "black",
+	"rate": 1000,
+	"available": true,
+	"thumb": "content/img/sandycheeks.jpg"
+}]
